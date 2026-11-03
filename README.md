@@ -1,5 +1,5 @@
 # Ejercicios-de-Python
-# Ejercicios_Repetitivos_1
+## Ejercicios_Repetitivos_1
 
 1. Introducir un número entero y realizar su tabla de multiplicar. Formato de salida:
 <img width="733" height="114" alt="image" src="https://github.com/user-attachments/assets/beaa5dec-86ef-4f77-af14-2ef40f11326d" />
