@@ -36,3 +36,40 @@ número si fuese negativo) y realizar su Raíz Cuadrada. Realizarlo con while.
 10. Introducir un número entero positivo (N) y realizar la SUMA N-ESIMA.
 S = 1 + 2 + 3 + 4 +..........+ N Visualizar por pantalla el resultado (S)
 <img width="644" height="264" alt="image" src="https://github.com/user-attachments/assets/ea7589e6-19a2-4cd3-9735-b5090f3367a5" />
+
+## Ejercicios_Alternativos_2
+
+1. Introducir una nota entera y visualizar si está aprobada o suspensa.
+<img width="388" height="172" alt="image" src="https://github.com/user-attachments/assets/2df19c90-e5a0-4be3-ba1d-3a17b08039ac" />
+
+2. Introducir dos números enteros y visualizar primero el menor y después el mayor.
+<img width="745" height="181" alt="image" src="https://github.com/user-attachments/assets/48b39ffc-69ff-414d-b28b-fd39406e54c4" />
+
+3. Introducir un número entero y visualizar si es positivo, negativo o nulo.
+<img width="483" height="195" alt="image" src="https://github.com/user-attachments/assets/dc2ff41f-86fe-43ad-8947-4bafa0ab2fe7" />
+
+4. Introducir una letra y visualizar si es vocal o consonante.
+<img width="712" height="192" alt="image" src="https://github.com/user-attachments/assets/19596937-ebd9-4670-acfe-3310ebe8a51e" />
+
+5. Introducir una letra tal que si es A, realizaremos el área de una circunferencia y si es L, realizaremos la longitud de la circunferencia. Sea cualquiera de las opciones elegidas, visualizar el resultado indicando si Se trata del área o de la longitud.
+<img width="479" height="278" alt="image" src="https://github.com/user-attachments/assets/d4cff480-01de-4c61-90f6-bcac873f8300" />
+
+6. Introducir la medida en números enteros de un triángulo y visualizar si es equilátero o no.
+<img width="501" height="403" alt="image" src="https://github.com/user-attachments/assets/65eae273-c8e6-4bb6-8d9d-411ec6d1fd40" />
+
+7. Programa que a partir de la medida de los lados de un triángulo, es capaz de decir si es equilátero, isósceles o escaleno.
+<img width="537" height="245" alt="image" src="https://github.com/user-attachments/assets/6f302575-3bd9-4bcf-a9c7-02398484f37b" />
+
+8. Introducir los tres valores para una ecuación de segundo grado (a, b, c). Visualizar el resultado solo si sus raíces son reales (cuando al realizar el cálculo de dentro de la raíz nos da >=0).
+<img width="571" height="334" alt="image" src="https://github.com/user-attachments/assets/2c25bb0b-6041-4748-b156-39dc34588b4c" />
+
+9. Introducir dos números enteros y visualizar si el primer número es divisible o no por el segundo número.
+<img width="634" height="405" alt="image" src="https://github.com/user-attachments/assets/eafba68d-6902-4bfb-b255-58ac4210a299" />
+
+10. A partir de la nota numérica con decimales de un alumno, construye el programa que indique su calificación en texto: Suspenso, Suficiente, Bien, etc.
+<img width="638" height="451" alt="image" src="https://github.com/user-attachments/assets/55a66335-1568-4a3a-ac41-ea32b1ffd848" />
+
+11. Crea un programa-calculadora
+<img width="691" height="576" alt="image" src="https://github.com/user-attachments/assets/64cfa2fb-2358-419f-852c-b1a1befcd978" />
+<img width="554" height="371" alt="image" src="https://github.com/user-attachments/assets/f8b200b4-c7b8-496f-af6c-cee7eda10238" />
+
