@@ -1,4 +1,75 @@
 # Ejercicios-de-Python
+## Ejercicios_Repetitivos_2
+
+11. Introducir notas mientras sean positivas. Se pide:
+1o Cuántos aprobados hay.
+2o Cuántos suspensos hay.
+3o Hallar la media.
+Visualizar cada uno de los resultados por pantalla.
+<img width="465" height="574" alt="image" src="https://github.com/user-attachments/assets/ef3f9b6f-6c0a-4294-8c2d-158710845d83" />
+
+12. Introducir edades mientras sean positivas, realizar la MEDIA y visualizar si dicha media ha sido mayor o menor de edad.
+<img width="432" height="457" alt="image" src="https://github.com/user-attachments/assets/f8aaeb99-b613-405d-8431-9d4b0af60547" />
+
+13. Introducir un número entero positivo (N) y realizar la suma de la siguiente			serie:
+S = 1 + 1 / 2 + 1 / 3 + 1 / 4 + ........+ 1 / N
+Visualizar por pantalla el resultado (S)
+<img width="477" height="259" alt="image" src="https://github.com/user-attachments/assets/9bca360a-c747-484b-b435-0dc1cddcd270" />
+
+14. Introducir un número entero positivo, calcular sus 10 primeras potencias y visualizar el resultado por pantalla.
+<img width="480" height="202" alt="image" src="https://github.com/user-attachments/assets/cb15fec8-bbf6-4bd3-b0ad-6c214abee882" />
+
+15. Introducir un número entero positivo y realizar el FACTORIAL de ese número. El FACTORIAL de un número se representa por N!, y es
+igual a:
+SI N = 4, entonces 4! = 4 * 3 * 2 * 1. Visualizar el resultado por pantalla.
+<img width="459" height="246" alt="image" src="https://github.com/user-attachments/assets/30594f03-b9bf-442a-a084-32add28c141a" />
+
+16. Introducir edad y sexo (un solo carácter = H ó M), mientras la edad sea positiva, el proceso termina cuando la edad introducida sea
+negativa. Se pide:
+1o Cuántos hombres se han introducido.
+2o Calcular la MEDIA de edad de los hombres
+3o Cuántas mujeres se han introducido.
+4o Calcular la MEDIA de edad de las mujeres.
+Visualizar cada uno de los resultados de la siguiente forma:
+- Se han introducido _______ mujeres y la media de edad es de ___ años.
+- Se han introducido ______ hombres y la media de edad es de ___ años.
+<img width="830" height="645" alt="image" src="https://github.com/user-attachments/assets/e3120574-c477-4d3a-ad9b-16d830627c4a" />
+<img width="809" height="62" alt="image" src="https://github.com/user-attachments/assets/67e20416-3040-4162-97f1-646ccb341287" />
+
+17. Introducir el número de la lista y la nota (número entero) de la 1a evaluación de la asignatura de MATEMÁTICAS, de cada uno de los
+alumnos de la clase (consideramos que son 10 alumnos).                                     Se pide:
+1o Encontrar el número de la lista y la nota del alumno con la
+máxima nota.
+2o Encontrar el número de la lista y la nota del alumno con la mínima
+nota.
+3o Hallar la media de las notas de dicha asignatura.
+Visualizar por pantalla cada uno de los resultados.
+<img width="675" height="649" alt="image" src="https://github.com/user-attachments/assets/cbf3afe3-8ea3-4513-9eb8-756d0ad65d52" />
+
+18. Introducir el número de la lista y las 3 notas (números enteros) de la 1a, 2a y 3a evaluación de la asignatura de LENGUA, para cada
+uno de los alumnos de la clase, en este caso el proceso continúa mientras el número de la lista no sea cero. Se pide:
+1o Hallar la nota media por alumno.
+2o Hallar la nota media del grupo.
+Visualizar cada uno de los resultados con el siguiente formato:
+- El alumno con número de lista _____ tiene un ___ de nota
+media.
+Después de introducir las notas de los alumnos se visualiza la media del grupo:
+- La media del grupo en LENGUA es: _________.
+<img width="783" height="576" alt="image" src="https://github.com/user-attachments/assets/1cb274ae-c5b0-4cc5-91e1-39724ff5cc26" />
+
+19. Programa que calcula el capital puesto a un interés fijo durante una serie de años. Se pedirán como datos de entrada:
+el año de inicio, el capital inicial, el interés y el número de años que
+estará rindiendo.
+Se mostrará como resultado, por cada año de la imposición: el año en curso,
+el capital a principios de año, el beneficio obtenido en ese año, y el capital a
+fin de año (inicial + beneficios).
+<img width="522" height="437" alt="image" src="https://github.com/user-attachments/assets/cf4a33e2-d0a4-42fc-b9d5-2235225bf8c4" />
+
+20. Haz el programa C que muestre N números de la sucesión de Fibonacci, sabiendo que cada uno se obtiene sumando los dos anteriores. Los
+dos primeros son siempre 1 y 1, y la sucesión tiene el siguiente aspecto: 1, 1, 2, 3, 5, 8, 13,.......
+<img width="498" height="313" alt="image" src="https://github.com/user-attachments/assets/24bddff0-b8ab-439d-b89b-e746e41f30c6" />
+
+
 ## Ejercicios_Repetitivos_1
 
 1. Introducir un número entero y realizar su tabla de multiplicar. Formato de salida:
